@@ -78,7 +78,7 @@ export default function App() {
         </section>
 
         <section id="estadisticas">
-          <h2>Car driving school simulator</h2>
+          <h2>estadisticas del juego</h2>
           <div className="estadisticas">
             <div className="card">
               <h3>Total de Juegos</h3>
